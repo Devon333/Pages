@@ -12,4 +12,8 @@ Part b) is the "Plasmon ID" plot and displays
 - Dipole additivity(point color, based on the color bar on right)
 - Collectivity(point size, reference inside plot area)
 - Superatomic character(SAC)(circle if > 0.7, unfilled square if 0.25<SAC<0.7, a cross if SAC<0.25)
+
 ![plasmonID cluster](Ag29.png)
+
+
+Using our plasmon ID factors we can identify plasmon-like states, collective states, single particle states, and interband states. For a state to be classified as a plasmon-like state it must have superatomic character > 0.40, collectivity > 2, and a dipole additivity > 0.25. These will appear as large black,purple,or red circles.  Collective states are super atomic character with a small dipole additivity and will appear as large yellow or orange squares. Single-particle states are super atomic, with a collectivity < 2, and the dipole additivity may be large or small. These states will appear as small circles of any color. Finally, interband states have low superatomic character indicating the occupied orbitals participating in this excited state are predominantly d-orbitals and will appear as x-marks of any color.
