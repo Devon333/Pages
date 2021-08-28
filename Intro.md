@@ -1,5 +1,5 @@
 # Projects
-This is my github where i will upload some programs I've written for fun or in the process of attaining a degree to move forward in the unforseen future.
+This is my github where i will upload some programs I've written for fun, in the process of attaining a degree, or improve myself in some other way.
 
 ## Project List
 
