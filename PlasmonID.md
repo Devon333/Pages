@@ -4,7 +4,7 @@
 In the silver nanowires there have been two main absorption peaks(longitudinal and transverse peaks) of interest where some groups determined the longitudinal peak to peak to be plasmonic, others claimed only the transverse was plasmonic, and some just called both of them plasmonic.
 The goal of this project is to categorize optically allowed excited states that make up the longitudinal and transverse peaks as plasmon-like or not, using [analytical methods](https://pubs.acs.org/doi/10.1021/acs.jpcc.9b10569) developed by my advisor and co-workers.
 
-Below in part a) is the total absorption spectra and the absorption spectra scaled by the superatomic character of each excited state that contributes to the absorption spectra. 
+Below in part a) is the total absorption spectra and the absorption spectra scaled by the superatomic character of each excited state that contributes to the absorption spectra. The inset contains images of the cluster of silver atoms and its aspect ratio(L/2R).
 
 Part b) is the "Plasmon ID" plot and displays 
 - Energy(x-axis)
