@@ -6,5 +6,10 @@ The goal of this project is to categorize optically allowed excited states that 
 
 Below in part a) is the total absorption spectra and the absorption spectra scaled by the superatomic character of each excited state that contributes to the absorption spectra. 
 
-Part b) is the "Plasmon ID" plot this plot has  
+Part b) is the "Plasmon ID" plot and displays 
+- Energy(x-axis)
+- Oscillator Strength(y-axis)
+- Dipole additivity(point color, based on the color bar on right)
+- Collectivity(point size, reference inside plot area)
+- Superatomic character(SAC)(circle if > 0.7, unfilled square if 0.25<SAC<0.7, a cross if SAC<0.25)
 ![plasmonID cluster](Ag29.png)
